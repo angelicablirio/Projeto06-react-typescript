@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Projeto06-react-typescript/static/css/main.e6c13ad2.css",
+    "main.js": "/Projeto06-react-typescript/static/js/main.b2b31c38.js",
+    "static/js/787.f4117076.chunk.js": "/Projeto06-react-typescript/static/js/787.f4117076.chunk.js",
+    "index.html": "/Projeto06-react-typescript/index.html",
+    "main.e6c13ad2.css.map": "/Projeto06-react-typescript/static/css/main.e6c13ad2.css.map",
+    "main.b2b31c38.js.map": "/Projeto06-react-typescript/static/js/main.b2b31c38.js.map",
+    "787.f4117076.chunk.js.map": "/Projeto06-react-typescript/static/js/787.f4117076.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b2b31c38.js"
+  ]
+}
